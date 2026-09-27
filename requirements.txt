@@ -1,0 +1,13 @@
+bpy==5.0.1
+numpy<2
+scipy
+pillow
+skia-python>=144.0
+OpenEXR
+shapely
+mido
+soundfile
+sherpa-onnx
+kokoro-onnx
+onnxruntime
+praat-parselmouth

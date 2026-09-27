@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+frames*/
+fr/
+r3d/
+keys*/
+final/
+*.wav
+*.mp4
+*.mid
+*.exr
+*.onnx
+*.bin
+tools/asr/sherpa-onnx-*/
