@@ -1,0 +1,989 @@
+[
+{
+"w": "What",
+"s": 0.019,
+"e": 0.119,
+"line": 0,
+"acc": false
+},
+{
+"w": "actually",
+"s": 0.219,
+"e": 0.597,
+"line": 0,
+"acc": true
+},
+{
+"w": "happens",
+"s": 0.647,
+"e": 0.997,
+"line": 0,
+"acc": false
+},
+{
+"w": "in",
+"s": 1.047,
+"e": 1.147,
+"line": 0,
+"acc": false
+},
+{
+"w": "the",
+"s": 1.147,
+"e": 1.222,
+"line": 0,
+"acc": false
+},
+{
+"w": "second",
+"s": 1.297,
+"e": 1.891,
+"line": 0,
+"acc": true
+},
+{
+"w": "after",
+"s": 2.041,
+"e": 2.166,
+"line": 0,
+"acc": false
+},
+{
+"w": "you",
+"s": 2.216,
+"e": 2.291,
+"line": 0,
+"acc": false
+},
+{
+"w": "hit",
+"s": 2.341,
+"e": 2.516,
+"line": 0,
+"acc": false
+},
+{
+"w": "send",
+"s": 2.566,
+"e": 2.836,
+"line": 0,
+"acc": true
+},
+{
+"w": "on",
+"s": 2.886,
+"e": 2.936,
+"line": 0,
+"acc": false
+},
+{
+"w": "WhatsApp?",
+"s": 2.986,
+"e": 3.524,
+"line": 0,
+"acc": false
+},
+{
+"w": "Let's",
+"s": 3.668,
+"e": 3.893,
+"line": 1,
+"acc": false
+},
+{
+"w": "follow",
+"s": 3.943,
+"e": 4.24,
+"line": 1,
+"acc": true
+},
+{
+"w": "one",
+"s": 4.29,
+"e": 4.465,
+"line": 1,
+"acc": false
+},
+{
+"w": "message.",
+"s": 4.515,
+"e": 5.065,
+"line": 1,
+"acc": false
+},
+{
+"w": "From",
+"s": 5.19,
+"e": 5.29,
+"line": 1,
+"acc": false
+},
+{
+"w": "Lagos,",
+"s": 5.29,
+"e": 5.776,
+"line": 1,
+"acc": true
+},
+{
+"w": "to",
+"s": 5.776,
+"e": 6.101,
+"line": 1,
+"acc": false
+},
+{
+"w": "London.",
+"s": 6.151,
+"e": 6.571,
+"line": 1,
+"acc": true
+},
+{
+"w": "First,",
+"s": 6.8,
+"e": 7.075,
+"line": 2,
+"acc": false
+},
+{
+"w": "your",
+"s": 7.155,
+"e": 7.305,
+"line": 2,
+"acc": false
+},
+{
+"w": "phone",
+"s": 7.38,
+"e": 7.63,
+"line": 2,
+"acc": false
+},
+{
+"w": "locks",
+"s": 7.68,
+"e": 7.923,
+"line": 2,
+"acc": true
+},
+{
+"w": "it.",
+"s": 7.973,
+"e": 8.248,
+"line": 2,
+"acc": false
+},
+{
+"w": "Only",
+"s": 8.423,
+"e": 8.673,
+"line": 2,
+"acc": false
+},
+{
+"w": "you",
+"s": 8.748,
+"e": 8.91,
+"line": 2,
+"acc": true
+},
+{
+"w": "and",
+"s": 8.96,
+"e": 9.035,
+"line": 2,
+"acc": false
+},
+{
+"w": "your",
+"s": 9.06,
+"e": 9.21,
+"line": 2,
+"acc": false
+},
+{
+"w": "friend",
+"s": 9.285,
+"e": 9.609,
+"line": 2,
+"acc": true
+},
+{
+"w": "can",
+"s": 9.659,
+"e": 9.809,
+"line": 2,
+"acc": false
+},
+{
+"w": "read",
+"s": 9.859,
+"e": 10.034,
+"line": 2,
+"acc": false
+},
+{
+"w": "it.",
+"s": 10.084,
+"e": 10.334,
+"line": 2,
+"acc": false
+},
+{
+"w": "Not",
+"s": 10.434,
+"e": 10.559,
+"line": 2,
+"acc": false
+},
+{
+"w": "even",
+"s": 10.609,
+"e": 10.759,
+"line": 2,
+"acc": false
+},
+{
+"w": "WhatsApp.",
+"s": 10.809,
+"e": 11.334,
+"line": 2,
+"acc": true
+},
+{
+"w": "It",
+"s": 11.523,
+"e": 11.623,
+"line": 3,
+"acc": false
+},
+{
+"w": "shoots",
+"s": 11.673,
+"e": 11.898,
+"line": 3,
+"acc": false
+},
+{
+"w": "out",
+"s": 11.973,
+"e": 12.123,
+"line": 3,
+"acc": false
+},
+{
+"w": "as",
+"s": 12.173,
+"e": 12.273,
+"line": 3,
+"acc": false
+},
+{
+"w": "radio",
+"s": 12.323,
+"e": 12.674,
+"line": 3,
+"acc": true
+},
+{
+"w": "waves,",
+"s": 12.724,
+"e": 12.974,
+"line": 3,
+"acc": false
+},
+{
+"w": "to",
+"s": 12.974,
+"e": 13.324,
+"line": 3,
+"acc": false
+},
+{
+"w": "the",
+"s": 13.349,
+"e": 13.399,
+"line": 3,
+"acc": false
+},
+{
+"w": "nearest",
+"s": 13.449,
+"e": 13.8,
+"line": 3,
+"acc": true
+},
+{
+"w": "cell",
+"s": 13.85,
+"e": 14.05,
+"line": 3,
+"acc": false
+},
+{
+"w": "tower.",
+"s": 14.1,
+"e": 14.436,
+"line": 3,
+"acc": false
+},
+{
+"w": "Then",
+"s": 14.595,
+"e": 14.695,
+"line": 4,
+"acc": false
+},
+{
+"w": "it",
+"s": 14.72,
+"e": 14.77,
+"line": 4,
+"acc": false
+},
+{
+"w": "turns",
+"s": 14.82,
+"e": 15.095,
+"line": 4,
+"acc": false
+},
+{
+"w": "into",
+"s": 15.145,
+"e": 15.32,
+"line": 4,
+"acc": false
+},
+{
+"w": "light,",
+"s": 15.37,
+"e": 15.856,
+"line": 4,
+"acc": true
+},
+{
+"w": "and",
+"s": 15.956,
+"e": 16.031,
+"line": 4,
+"acc": false
+},
+{
+"w": "races",
+"s": 16.081,
+"e": 16.459,
+"line": 4,
+"acc": true
+},
+{
+"w": "through",
+"s": 16.509,
+"e": 16.709,
+"line": 4,
+"acc": false
+},
+{
+"w": "glass",
+"s": 16.759,
+"e": 16.984,
+"line": 4,
+"acc": false
+},
+{
+"w": "cables",
+"s": 17.034,
+"e": 17.434,
+"line": 4,
+"acc": false
+},
+{
+"w": "under",
+"s": 17.509,
+"e": 17.634,
+"line": 4,
+"acc": false
+},
+{
+"w": "the",
+"s": 17.659,
+"e": 17.709,
+"line": 4,
+"acc": false
+},
+{
+"w": "road.",
+"s": 17.759,
+"e": 18.118,
+"line": 4,
+"acc": false
+},
+{
+"w": "At",
+"s": 18.317,
+"e": 18.392,
+"line": 5,
+"acc": false
+},
+{
+"w": "the",
+"s": 18.417,
+"e": 18.492,
+"line": 5,
+"acc": false
+},
+{
+"w": "coast,",
+"s": 18.567,
+"e": 19.017,
+"line": 5,
+"acc": false
+},
+{
+"w": "it",
+"s": 19.117,
+"e": 19.217,
+"line": 5,
+"acc": false
+},
+{
+"w": "dives.",
+"s": 19.292,
+"e": 19.913,
+"line": 5,
+"acc": true
+},
+{
+"w": "Into",
+"s": 20.063,
+"e": 20.213,
+"line": 5,
+"acc": false
+},
+{
+"w": "the",
+"s": 20.238,
+"e": 20.338,
+"line": 5,
+"acc": false
+},
+{
+"w": "ocean.",
+"s": 20.438,
+"e": 20.887,
+"line": 5,
+"acc": true
+},
+{
+"w": "Quick",
+"s": 21.107,
+"e": 21.332,
+"line": 6,
+"acc": false
+},
+{
+"w": "guess.",
+"s": 21.382,
+"e": 21.757,
+"line": 6,
+"acc": false
+},
+{
+"w": "How",
+"s": 21.857,
+"e": 22.032,
+"line": 6,
+"acc": false
+},
+{
+"w": "far",
+"s": 22.107,
+"e": 22.323,
+"line": 6,
+"acc": true
+},
+{
+"w": "does",
+"s": 22.348,
+"e": 22.448,
+"line": 6,
+"acc": false
+},
+{
+"w": "it",
+"s": 22.473,
+"e": 22.523,
+"line": 6,
+"acc": false
+},
+{
+"w": "travel",
+"s": 22.573,
+"e": 22.898,
+"line": 6,
+"acc": false
+},
+{
+"w": "down",
+"s": 22.948,
+"e": 23.173,
+"line": 6,
+"acc": false
+},
+{
+"w": "there?",
+"s": 23.223,
+"e": 23.469,
+"line": 6,
+"acc": false
+},
+{
+"w": "Over",
+"s": 24.335,
+"e": 24.51,
+"line": 7,
+"acc": false
+},
+{
+"w": "six",
+"s": 24.585,
+"e": 24.882,
+"line": 7,
+"acc": true
+},
+{
+"w": "thousand",
+"s": 24.932,
+"e": 25.31,
+"line": 7,
+"acc": true
+},
+{
+"w": "kilometers.",
+"s": 25.31,
+"e": 25.935,
+"line": 7,
+"acc": false
+},
+{
+"w": "In",
+"s": 25.935,
+"e": 26.435,
+"line": 7,
+"acc": false
+},
+{
+"w": "a",
+"s": 26.435,
+"e": 26.51,
+"line": 7,
+"acc": false
+},
+{
+"w": "cable",
+"s": 26.56,
+"e": 26.96,
+"line": 7,
+"acc": false
+},
+{
+"w": "about",
+"s": 27.035,
+"e": 27.235,
+"line": 7,
+"acc": false
+},
+{
+"w": "as",
+"s": 27.26,
+"e": 27.385,
+"line": 7,
+"acc": false
+},
+{
+"w": "thick",
+"s": 27.485,
+"e": 27.66,
+"line": 7,
+"acc": false
+},
+{
+"w": "as",
+"s": 27.66,
+"e": 27.91,
+"line": 7,
+"acc": false
+},
+{
+"w": "a",
+"s": 27.91,
+"e": 28.01,
+"line": 7,
+"acc": false
+},
+{
+"w": "garden",
+"s": 28.085,
+"e": 28.49,
+"line": 7,
+"acc": true
+},
+{
+"w": "hose.",
+"s": 28.54,
+"e": 28.99,
+"line": 7,
+"acc": false
+},
+{
+"w": "Every",
+"s": 29.229,
+"e": 29.429,
+"line": 8,
+"acc": false
+},
+{
+"w": "seventy",
+"s": 29.504,
+"e": 29.829,
+"line": 8,
+"acc": false
+},
+{
+"w": "kilometers",
+"s": 29.879,
+"e": 30.354,
+"line": 8,
+"acc": false
+},
+{
+"w": "or",
+"s": 30.404,
+"e": 30.504,
+"line": 8,
+"acc": false
+},
+{
+"w": "so,",
+"s": 30.554,
+"e": 30.729,
+"line": 8,
+"acc": false
+},
+{
+"w": "a",
+"s": 30.729,
+"e": 31.104,
+"line": 8,
+"acc": false
+},
+{
+"w": "repeater",
+"s": 31.154,
+"e": 31.613,
+"line": 8,
+"acc": true
+},
+{
+"w": "boosts",
+"s": 31.713,
+"e": 32.064,
+"line": 8,
+"acc": true
+},
+{
+"w": "the",
+"s": 32.114,
+"e": 32.189,
+"line": 8,
+"acc": false
+},
+{
+"w": "light.",
+"s": 32.239,
+"e": 32.526,
+"line": 8,
+"acc": false
+},
+{
+"w": "Out",
+"s": 32.729,
+"e": 32.804,
+"line": 9,
+"acc": false
+},
+{
+"w": "of",
+"s": 32.804,
+"e": 32.879,
+"line": 9,
+"acc": false
+},
+{
+"w": "the",
+"s": 32.904,
+"e": 32.954,
+"line": 9,
+"acc": false
+},
+{
+"w": "sea,",
+"s": 33.029,
+"e": 33.279,
+"line": 9,
+"acc": false
+},
+{
+"w": "it",
+"s": 33.329,
+"e": 33.379,
+"line": 9,
+"acc": false
+},
+{
+"w": "reaches",
+"s": 33.429,
+"e": 33.754,
+"line": 9,
+"acc": false
+},
+{
+"w": "a",
+"s": 33.779,
+"e": 33.929,
+"line": 9,
+"acc": false
+},
+{
+"w": "WhatsApp",
+"s": 33.929,
+"e": 34.379,
+"line": 9,
+"acc": false
+},
+{
+"w": "server.",
+"s": 34.429,
+"e": 35.104,
+"line": 9,
+"acc": true
+},
+{
+"w": "One",
+"s": 35.154,
+"e": 35.316,
+"line": 9,
+"acc": true
+},
+{
+"w": "grey",
+"s": 35.391,
+"e": 35.691,
+"line": 9,
+"acc": false
+},
+{
+"w": "tick.",
+"s": 35.766,
+"e": 36.216,
+"line": 9,
+"acc": false
+},
+{
+"w": "The",
+"s": 36.341,
+"e": 36.416,
+"line": 9,
+"acc": false
+},
+{
+"w": "server",
+"s": 36.491,
+"e": 36.791,
+"line": 9,
+"acc": false
+},
+{
+"w": "has",
+"s": 36.841,
+"e": 37.057,
+"line": 9,
+"acc": true
+},
+{
+"w": "it.",
+"s": 37.057,
+"e": 37.357,
+"line": 9,
+"acc": false
+},
+{
+"w": "But",
+"s": 37.457,
+"e": 37.557,
+"line": 9,
+"acc": false
+},
+{
+"w": "it",
+"s": 37.582,
+"e": 37.632,
+"line": 9,
+"acc": false
+},
+{
+"w": "can't",
+"s": 37.682,
+"e": 37.898,
+"line": 9,
+"acc": true
+},
+{
+"w": "read",
+"s": 37.948,
+"e": 38.123,
+"line": 9,
+"acc": false
+},
+{
+"w": "it.",
+"s": 38.173,
+"e": 38.34,
+"line": 9,
+"acc": false
+},
+{
+"w": "Then",
+"s": 38.554,
+"e": 38.654,
+"line": 10,
+"acc": false
+},
+{
+"w": "it",
+"s": 38.679,
+"e": 38.729,
+"line": 10,
+"acc": false
+},
+{
+"w": "jumps",
+"s": 38.779,
+"e": 39.104,
+"line": 10,
+"acc": false
+},
+{
+"w": "to",
+"s": 39.154,
+"e": 39.254,
+"line": 10,
+"acc": false
+},
+{
+"w": "your",
+"s": 39.254,
+"e": 39.404,
+"line": 10,
+"acc": false
+},
+{
+"w": "friend's",
+"s": 39.404,
+"e": 39.836,
+"line": 10,
+"acc": true
+},
+{
+"w": "phone,",
+"s": 39.911,
+"e": 40.211,
+"line": 10,
+"acc": false
+},
+{
+"w": "and",
+"s": 40.311,
+"e": 40.386,
+"line": 10,
+"acc": false
+},
+{
+"w": "unlocks.",
+"s": 40.461,
+"e": 41.136,
+"line": 10,
+"acc": true
+},
+{
+"w": "Two",
+"s": 41.261,
+"e": 41.45,
+"line": 10,
+"acc": true
+},
+{
+"w": "grey",
+"s": 41.5,
+"e": 41.775,
+"line": 10,
+"acc": false
+},
+{
+"w": "ticks.",
+"s": 41.85,
+"e": 42.211,
+"line": 10,
+"acc": false
+},
+{
+"w": "All",
+"s": 42.524,
+"e": 42.624,
+"line": 11,
+"acc": false
+},
+{
+"w": "of",
+"s": 42.649,
+"e": 42.749,
+"line": 11,
+"acc": false
+},
+{
+"w": "that,",
+"s": 42.799,
+"e": 43.124,
+"line": 11,
+"acc": false
+},
+{
+"w": "in",
+"s": 43.249,
+"e": 43.399,
+"line": 11,
+"acc": false
+},
+{
+"w": "under",
+"s": 43.474,
+"e": 43.663,
+"line": 11,
+"acc": true
+},
+{
+"w": "a",
+"s": 43.663,
+"e": 43.763,
+"line": 11,
+"acc": false
+},
+{
+"w": "second.",
+"s": 43.838,
+"e": 44.352,
+"line": 11,
+"acc": true
+}
+]

@@ -1,0 +1,13 @@
+Have you ever wondered where your WhatsApp message goes, the second you hit send?
+Let's follow one.
+First, your phone scrambles it into code which only you and your friend can read. Not even WhatsApp.
+It goes into the nearest tower as radio waves.
+The tower turns it into light, and fires it through glass cables under the road.
+At the coast, it dives into the Atlantic.
+How far do you think it travels down there?
+Over six thousand kilometers. In a cable about as thick as a garden hose.
+Every seventy kilometers or so, a repeater boosts the light.
+Out of the sea, it hits a WhatsApp server. One grey tick. The server has it, but it can't read a word of it.
+Then it jumps to your friend's phone, and unlocks. Two grey ticks.
+Lagos to London. Under a second.
+Blue ticks? That's up to your friend.

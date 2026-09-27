@@ -1,0 +1,1045 @@
+[
+{
+"w": "Have",
+"line": 0,
+"s": 0.0,
+"e": 0.28,
+"acc": false
+},
+{
+"w": "you",
+"line": 0,
+"s": 0.28,
+"e": 0.6,
+"acc": false
+},
+{
+"w": "ever",
+"line": 0,
+"s": 0.6,
+"e": 0.92,
+"acc": false
+},
+{
+"w": "wondered",
+"line": 0,
+"s": 0.92,
+"e": 1.4,
+"acc": true
+},
+{
+"w": "where",
+"line": 0,
+"s": 1.4,
+"e": 1.68,
+"acc": false
+},
+{
+"w": "your",
+"line": 0,
+"s": 1.68,
+"e": 1.88,
+"acc": false
+},
+{
+"w": "WhatsApp",
+"line": 0,
+"s": 1.88,
+"e": 2.32,
+"acc": false
+},
+{
+"w": "message",
+"line": 0,
+"s": 2.32,
+"e": 2.76,
+"acc": false
+},
+{
+"w": "goes,",
+"line": 0,
+"s": 2.76,
+"e": 3.08,
+"acc": false
+},
+{
+"w": "the",
+"line": 0,
+"s": 3.08,
+"e": 3.32,
+"acc": false
+},
+{
+"w": "second",
+"line": 0,
+"s": 3.32,
+"e": 3.72,
+"acc": true
+},
+{
+"w": "you",
+"line": 0,
+"s": 3.72,
+"e": 3.88,
+"acc": false
+},
+{
+"w": "hit",
+"line": 0,
+"s": 3.88,
+"e": 4.12,
+"acc": false
+},
+{
+"w": "send?",
+"line": 0,
+"s": 4.12,
+"e": 4.72,
+"acc": false
+},
+{
+"w": "Let's",
+"line": 1,
+"s": 4.72,
+"e": 5.28,
+"acc": false
+},
+{
+"w": "follow",
+"line": 1,
+"s": 5.28,
+"e": 5.76,
+"acc": true
+},
+{
+"w": "one.",
+"line": 1,
+"s": 5.76,
+"e": 5.969,
+"acc": false
+},
+{
+"w": "First,",
+"line": 2,
+"s": 6.174,
+"e": 6.854,
+"acc": false
+},
+{
+"w": "your",
+"line": 2,
+"s": 6.854,
+"e": 7.134,
+"acc": false
+},
+{
+"w": "phone",
+"line": 2,
+"s": 7.134,
+"e": 7.534,
+"acc": false
+},
+{
+"w": "scrambles",
+"line": 2,
+"s": 7.534,
+"e": 8.134,
+"acc": true
+},
+{
+"w": "it",
+"line": 2,
+"s": 8.134,
+"e": 8.294,
+"acc": false
+},
+{
+"w": "into",
+"line": 2,
+"s": 8.294,
+"e": 8.574,
+"acc": false
+},
+{
+"w": "code",
+"line": 2,
+"s": 8.574,
+"e": 9.054,
+"acc": true
+},
+{
+"w": "which",
+"line": 2,
+"s": 9.054,
+"e": 9.294,
+"acc": false
+},
+{
+"w": "only",
+"line": 2,
+"s": 9.294,
+"e": 9.614,
+"acc": false
+},
+{
+"w": "you",
+"line": 2,
+"s": 9.614,
+"e": 9.894,
+"acc": true
+},
+{
+"w": "and",
+"line": 2,
+"s": 9.894,
+"e": 10.174,
+"acc": false
+},
+{
+"w": "your",
+"line": 2,
+"s": 10.174,
+"e": 10.454,
+"acc": false
+},
+{
+"w": "friend",
+"line": 2,
+"s": 10.454,
+"e": 10.814,
+"acc": true
+},
+{
+"w": "can",
+"line": 2,
+"s": 10.814,
+"e": 11.014,
+"acc": false
+},
+{
+"w": "read.",
+"line": 2,
+"s": 11.014,
+"e": 11.287,
+"acc": false
+},
+{
+"w": "Not",
+"line": 2,
+"s": 11.467,
+"e": 11.787,
+"acc": false
+},
+{
+"w": "even",
+"line": 2,
+"s": 11.787,
+"e": 12.107,
+"acc": false
+},
+{
+"w": "WhatsApp.",
+"line": 2,
+"s": 12.107,
+"e": 12.854,
+"acc": true
+},
+{
+"w": "It",
+"line": 3,
+"s": 13.016,
+"e": 13.096,
+"acc": false
+},
+{
+"w": "goes",
+"line": 3,
+"s": 13.096,
+"e": 13.416,
+"acc": false
+},
+{
+"w": "into",
+"line": 3,
+"s": 13.416,
+"e": 13.656,
+"acc": false
+},
+{
+"w": "the",
+"line": 3,
+"s": 13.656,
+"e": 13.776,
+"acc": false
+},
+{
+"w": "nearest",
+"line": 3,
+"s": 13.776,
+"e": 14.176,
+"acc": true
+},
+{
+"w": "tower",
+"line": 3,
+"s": 14.176,
+"e": 14.576,
+"acc": true
+},
+{
+"w": "as",
+"line": 3,
+"s": 14.576,
+"e": 14.736,
+"acc": false
+},
+{
+"w": "radio",
+"line": 3,
+"s": 14.736,
+"e": 15.176,
+"acc": true
+},
+{
+"w": "waves.",
+"line": 3,
+"s": 15.176,
+"e": 15.377,
+"acc": false
+},
+{
+"w": "The",
+"line": 4,
+"s": 15.551,
+"e": 15.671,
+"acc": false
+},
+{
+"w": "tower",
+"line": 4,
+"s": 15.671,
+"e": 16.311,
+"acc": false
+},
+{
+"w": "turns",
+"line": 4,
+"s": 16.311,
+"e": 16.711,
+"acc": false
+},
+{
+"w": "it",
+"line": 4,
+"s": 16.711,
+"e": 16.871,
+"acc": false
+},
+{
+"w": "into",
+"line": 4,
+"s": 16.871,
+"e": 17.111,
+"acc": false
+},
+{
+"w": "light,",
+"line": 4,
+"s": 17.111,
+"e": 17.431,
+"acc": true
+},
+{
+"w": "and",
+"line": 4,
+"s": 17.431,
+"e": 17.671,
+"acc": false
+},
+{
+"w": "fires",
+"line": 4,
+"s": 17.671,
+"e": 18.191,
+"acc": false
+},
+{
+"w": "it",
+"line": 4,
+"s": 18.191,
+"e": 18.351,
+"acc": false
+},
+{
+"w": "through",
+"line": 4,
+"s": 18.351,
+"e": 18.511,
+"acc": false
+},
+{
+"w": "glass",
+"line": 4,
+"s": 18.511,
+"e": 18.831,
+"acc": true
+},
+{
+"w": "cables",
+"line": 4,
+"s": 18.831,
+"e": 19.311,
+"acc": false
+},
+{
+"w": "under",
+"line": 4,
+"s": 19.311,
+"e": 19.631,
+"acc": false
+},
+{
+"w": "the",
+"line": 4,
+"s": 19.631,
+"e": 19.831,
+"acc": false
+},
+{
+"w": "road.",
+"line": 4,
+"s": 19.831,
+"e": 20.203,
+"acc": false
+},
+{
+"w": "At",
+"line": 5,
+"s": 20.376,
+"e": 20.536,
+"acc": false
+},
+{
+"w": "the",
+"line": 5,
+"s": 20.536,
+"e": 20.736,
+"acc": false
+},
+{
+"w": "coast,",
+"line": 5,
+"s": 20.736,
+"e": 21.456,
+"acc": false
+},
+{
+"w": "it",
+"line": 5,
+"s": 21.456,
+"e": 21.776,
+"acc": false
+},
+{
+"w": "dives",
+"line": 5,
+"s": 21.776,
+"e": 22.296,
+"acc": true
+},
+{
+"w": "into",
+"line": 5,
+"s": 22.296,
+"e": 22.496,
+"acc": false
+},
+{
+"w": "the",
+"line": 5,
+"s": 22.496,
+"e": 22.656,
+"acc": false
+},
+{
+"w": "Atlantic.",
+"line": 5,
+"s": 22.656,
+"e": 23.223,
+"acc": true
+},
+{
+"w": "How",
+"line": 6,
+"s": 23.516,
+"e": 23.956,
+"acc": false
+},
+{
+"w": "far",
+"line": 6,
+"s": 23.956,
+"e": 24.276,
+"acc": true
+},
+{
+"w": "do",
+"line": 6,
+"s": 24.276,
+"e": 24.436,
+"acc": false
+},
+{
+"w": "you",
+"line": 6,
+"s": 24.436,
+"e": 24.596,
+"acc": false
+},
+{
+"w": "think",
+"line": 6,
+"s": 24.596,
+"e": 24.756,
+"acc": true
+},
+{
+"w": "it",
+"line": 6,
+"s": 24.756,
+"e": 24.956,
+"acc": false
+},
+{
+"w": "travels",
+"line": 6,
+"s": 24.956,
+"e": 25.436,
+"acc": false
+},
+{
+"w": "down",
+"line": 6,
+"s": 25.436,
+"e": 25.676,
+"acc": false
+},
+{
+"w": "there?",
+"line": 6,
+"s": 25.676,
+"e": 25.943,
+"acc": false
+},
+{
+"w": "Over",
+"line": 7,
+"s": 26.133,
+"e": 26.572,
+"acc": false
+},
+{
+"w": "six",
+"line": 7,
+"s": 26.572,
+"e": 27.053,
+"acc": true
+},
+{
+"w": "thousand",
+"line": 7,
+"s": 27.053,
+"e": 27.652,
+"acc": true
+},
+{
+"w": "kilometers.",
+"line": 7,
+"s": 27.652,
+"e": 28.454,
+"acc": false
+},
+{
+"w": "In",
+"line": 7,
+"s": 28.665,
+"e": 28.785,
+"acc": false
+},
+{
+"w": "a",
+"line": 7,
+"s": 28.785,
+"e": 29.025,
+"acc": false
+},
+{
+"w": "cable",
+"line": 7,
+"s": 29.025,
+"e": 29.505,
+"acc": false
+},
+{
+"w": "about",
+"line": 7,
+"s": 29.505,
+"e": 29.865,
+"acc": false
+},
+{
+"w": "as",
+"line": 7,
+"s": 29.865,
+"e": 30.065,
+"acc": false
+},
+{
+"w": "thick",
+"line": 7,
+"s": 30.065,
+"e": 30.385,
+"acc": false
+},
+{
+"w": "as",
+"line": 7,
+"s": 30.385,
+"e": 30.505,
+"acc": false
+},
+{
+"w": "a",
+"line": 7,
+"s": 30.505,
+"e": 30.665,
+"acc": false
+},
+{
+"w": "garden",
+"line": 7,
+"s": 30.665,
+"e": 31.105,
+"acc": true
+},
+{
+"w": "hose.",
+"line": 7,
+"s": 31.105,
+"e": 31.312,
+"acc": false
+},
+{
+"w": "Every",
+"line": 8,
+"s": 31.484,
+"e": 31.884,
+"acc": false
+},
+{
+"w": "seventy",
+"line": 8,
+"s": 31.884,
+"e": 32.364,
+"acc": false
+},
+{
+"w": "kilometers",
+"line": 8,
+"s": 32.364,
+"e": 32.924,
+"acc": false
+},
+{
+"w": "or",
+"line": 8,
+"s": 32.924,
+"e": 33.044,
+"acc": false
+},
+{
+"w": "so,",
+"line": 8,
+"s": 33.044,
+"e": 33.284,
+"acc": false
+},
+{
+"w": "a",
+"line": 8,
+"s": 33.284,
+"e": 33.404,
+"acc": false
+},
+{
+"w": "repeater",
+"line": 8,
+"s": 33.404,
+"e": 34.084,
+"acc": true
+},
+{
+"w": "boosts",
+"line": 8,
+"s": 34.084,
+"e": 34.684,
+"acc": true
+},
+{
+"w": "the",
+"line": 8,
+"s": 34.684,
+"e": 34.924,
+"acc": false
+},
+{
+"w": "light.",
+"line": 8,
+"s": 34.924,
+"e": 35.384,
+"acc": false
+},
+{
+"w": "Out",
+"line": 9,
+"s": 35.586,
+"e": 35.786,
+"acc": false
+},
+{
+"w": "of",
+"line": 9,
+"s": 35.786,
+"e": 35.946,
+"acc": false
+},
+{
+"w": "the",
+"line": 9,
+"s": 35.946,
+"e": 36.106,
+"acc": false
+},
+{
+"w": "sea,",
+"line": 9,
+"s": 36.106,
+"e": 36.426,
+"acc": false
+},
+{
+"w": "it",
+"line": 9,
+"s": 36.426,
+"e": 36.586,
+"acc": false
+},
+{
+"w": "hits",
+"line": 9,
+"s": 36.586,
+"e": 36.866,
+"acc": false
+},
+{
+"w": "a",
+"line": 9,
+"s": 36.866,
+"e": 36.986,
+"acc": false
+},
+{
+"w": "WhatsApp",
+"line": 9,
+"s": 36.986,
+"e": 37.266,
+"acc": false
+},
+{
+"w": "server.",
+"line": 9,
+"s": 37.266,
+"e": 37.794,
+"acc": true
+},
+{
+"w": "One",
+"line": 9,
+"s": 37.981,
+"e": 38.261,
+"acc": true
+},
+{
+"w": "grey",
+"line": 9,
+"s": 38.261,
+"e": 38.621,
+"acc": false
+},
+{
+"w": "tick.",
+"line": 9,
+"s": 38.621,
+"e": 38.773,
+"acc": false
+},
+{
+"w": "The",
+"line": 9,
+"s": 38.985,
+"e": 39.185,
+"acc": false
+},
+{
+"w": "server",
+"line": 9,
+"s": 39.185,
+"e": 39.745,
+"acc": true
+},
+{
+"w": "has",
+"line": 9,
+"s": 39.745,
+"e": 39.945,
+"acc": false
+},
+{
+"w": "it,",
+"line": 9,
+"s": 39.945,
+"e": 40.225,
+"acc": false
+},
+{
+"w": "but",
+"line": 9,
+"s": 40.225,
+"e": 40.545,
+"acc": false
+},
+{
+"w": "it",
+"line": 9,
+"s": 40.545,
+"e": 40.745,
+"acc": false
+},
+{
+"w": "can't",
+"line": 9,
+"s": 40.745,
+"e": 41.105,
+"acc": true
+},
+{
+"w": "read",
+"line": 9,
+"s": 41.105,
+"e": 41.385,
+"acc": false
+},
+{
+"w": "a",
+"line": 9,
+"s": 41.385,
+"e": 41.545,
+"acc": false
+},
+{
+"w": "word",
+"line": 9,
+"s": 41.545,
+"e": 41.785,
+"acc": true
+},
+{
+"w": "of",
+"line": 9,
+"s": 41.785,
+"e": 41.985,
+"acc": false
+},
+{
+"w": "it.",
+"line": 9,
+"s": 41.985,
+"e": 42.032,
+"acc": false
+},
+{
+"w": "Then",
+"line": 10,
+"s": 42.219,
+"e": 42.499,
+"acc": false
+},
+{
+"w": "it",
+"line": 10,
+"s": 42.499,
+"e": 42.819,
+"acc": false
+},
+{
+"w": "jumps",
+"line": 10,
+"s": 42.819,
+"e": 43.139,
+"acc": false
+},
+{
+"w": "to",
+"line": 10,
+"s": 43.139,
+"e": 43.259,
+"acc": false
+},
+{
+"w": "your",
+"line": 10,
+"s": 43.259,
+"e": 43.379,
+"acc": false
+},
+{
+"w": "friend's",
+"line": 10,
+"s": 43.379,
+"e": 43.659,
+"acc": true
+},
+{
+"w": "phone,",
+"line": 10,
+"s": 43.659,
+"e": 43.834,
+"acc": false
+},
+{
+"w": "and",
+"line": 10,
+"s": 43.997,
+"e": 44.157,
+"acc": false
+},
+{
+"w": "unlocks.",
+"line": 10,
+"s": 44.157,
+"e": 44.727,
+"acc": true
+},
+{
+"w": "Two",
+"line": 10,
+"s": 44.913,
+"e": 45.233,
+"acc": true
+},
+{
+"w": "grey",
+"line": 10,
+"s": 45.233,
+"e": 45.775,
+"acc": false
+},
+{
+"w": "ticks.",
+"line": 10,
+"s": 45.775,
+"e": 46.317,
+"acc": false
+},
+{
+"w": "Lagos",
+"line": 11,
+"s": 46.317,
+"e": 46.859,
+"acc": false
+},
+{
+"w": "to",
+"line": 11,
+"s": 46.859,
+"e": 47.099,
+"acc": false
+},
+{
+"w": "London.",
+"line": 11,
+"s": 47.099,
+"e": 47.434,
+"acc": false
+},
+{
+"w": "Under",
+"line": 11,
+"s": 47.59,
+"e": 47.87,
+"acc": true
+},
+{
+"w": "a",
+"line": 11,
+"s": 47.87,
+"e": 48.03,
+"acc": false
+},
+{
+"w": "second.",
+"line": 11,
+"s": 48.03,
+"e": 48.559,
+"acc": true
+},
+{
+"w": "Blue",
+"line": 12,
+"s": 48.746,
+"e": 49.106,
+"acc": true
+},
+{
+"w": "ticks?",
+"line": 12,
+"s": 49.106,
+"e": 49.462,
+"acc": false
+},
+{
+"w": "That's",
+"line": 12,
+"s": 49.683,
+"e": 50.003,
+"acc": false
+},
+{
+"w": "up",
+"line": 12,
+"s": 50.003,
+"e": 50.203,
+"acc": false
+},
+{
+"w": "to",
+"line": 12,
+"s": 50.203,
+"e": 50.363,
+"acc": false
+},
+{
+"w": "your",
+"line": 12,
+"s": 50.363,
+"e": 50.563,
+"acc": false
+},
+{
+"w": "friend.",
+"line": 12,
+"s": 50.563,
+"e": 50.864,
+"acc": true
+}
+]
